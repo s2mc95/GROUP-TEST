@@ -24,8 +24,6 @@ design:
       - 20px
       - "0"
 ---
-#  *   Neuro-Vascular Team*
+# *NEURO-VASCULAR TEAM*
 
-###  *\    Computational Neuroscience Laboratory*
-
-###  *\    Indian Institute of Technology, Madras*
+### Computational Neuroscience Laboratory
