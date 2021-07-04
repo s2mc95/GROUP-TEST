@@ -11,10 +11,11 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    color: "#92ffed"
+    color: "#ffffff"
+    text_color_light: true
 hero_media: welcome.jpg
 ---
-
+![]()
 
 # About Us
 
@@ -23,8 +24,6 @@ The main goal of the neurovascular team is to:
 * Model and understand the bi-directional neurovascular system and study the effect of such coupling on neural activity and plasticity using artificial neural networks.
 * Develop a network level model to capture neuro-glial-vascular interaction with a simplified computational model
 * Reframe neurovascular coupling in terms of demand of energy and its efficient distribution.
-
-
 
 # Vision
 
