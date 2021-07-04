@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: vascular_head_logo.png
-    image_darken: 0
+    image_darken: 0.5
     image_parallax: false
     image_position: center
     image_size: cover
@@ -24,3 +24,10 @@ design:
       - 20px
       - "0"
 ---
+
+
+# Neuro-Vascular Team
+
+### Computational Neuroscience Laboratory
+
+### Indian Institute of Technology, Madras
