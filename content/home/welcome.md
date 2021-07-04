@@ -9,9 +9,23 @@ weight: 11
 title: CNN ANVN
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
   background:
     color: "#92ffed"
 hero_media: welcome.jpg
 ---
-REsearch Group
+
+
+# About Us
+
+The main goal of the neurovascular team is to:
+
+* Model and understand the bi-directional neurovascular system and study the effect of such coupling on neural activity and plasticity using artificial neural networks.
+* Develop a network level model to capture neuro-glial-vascular interaction with a simplified computational model
+* Reframe neurovascular coupling in terms of demand of energy and its efficient distribution.
+
+
+
+# Vision
+
+Develop a simple yet powerful model to implement neurovascular coupling in the [MESOBRAIN project](https://biotech.iitm.ac.in/Faculty/CNS_LAB/home.html).
