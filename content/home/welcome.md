@@ -6,16 +6,17 @@ widget: hero
 widget_id: RECENT
 headless: true
 weight: 11
-title: CNN ANVN
+title: ""
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     color: "#ffffff"
     text_color_light: false
+    image: avatar_hu0a91a108d8f68379f0ed2004c20f5aa1_90140_270x270_fill_lanczos_center_2.png
 hero_media: welcome.jpg
 ---
-![]()
+
 
 # About Us
 
