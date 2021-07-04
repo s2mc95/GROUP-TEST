@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     color: "#ffffff"
-    text_color_light: true
+    text_color_light: false
 hero_media: welcome.jpg
 ---
 ![]()
