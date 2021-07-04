@@ -9,7 +9,7 @@ weight: 11
 title: CNN ANVN
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     color: "#92ffed"
 hero_media: welcome.jpg
